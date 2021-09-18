@@ -1,5 +1,7 @@
 ### Hi 👋, I'm [Jose](https://bahamonde.dev)
 
+- 🤓 Java backend developer
+
 - 🌱 I’m currently learning **Kotlin and frontend stuff**. [CodelyTV](codely.tv) fan.
 
 - 📫 How to reach me: **jose@bahamonde.dev**
