@@ -1,10 +1,12 @@
 ### Hi 👋, I'm [Jose](https://bahamonde.dev)
 
-- 🤓 Java backend developer
+- 🤓 Java backend developer.
 
-- 🌱 I’m currently learning **Kotlin and frontend stuff**. [CodelyTV](codely.tv) fan.
+- 👴🏻 Experienced in logistics and real-time backend systems. 
 
-- 📫 How to reach me: **jose@bahamonde.dev**
+- 🌱 Learning **Kotlin**, interested in DDD applied to backend distributed systems. [CodelyTV](codely.tv) fan.
+
+- 📫 How to reach me: **jose@bahamonde.dev**.
 
 #### Connect with me:
 
