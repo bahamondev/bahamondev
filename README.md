@@ -4,7 +4,7 @@
 
 - 👴🏻 Experienced in logistics and real-time backend systems. 
 
-- 🌱 Learning **Kotlin**, interested in DDD applied to backend distributed systems. [CodelyTV](codely.tv) fan.
+- 🌱 Learning **Kotlin** and **Rust**, interested in DDD applied to backend distributed systems.
 
 - 📫 How to reach me: **jose@bahamonde.dev**.
 
@@ -13,5 +13,3 @@
 - [Twitter](https://twitter.com/lampabroas)
 
 - [Linkedin](https://linkedin.com/in/bahamondev)
-
-- [Polywork](https://timeline.bahamonde.dev)
